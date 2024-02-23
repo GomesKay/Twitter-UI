@@ -6,6 +6,7 @@
 * React.JS
 * React Router Dom
 * Phosphor Icons
+* TypeScript
 
 ## 💻 Projeto
 Projeto desenvolvido pela Rocketseat no evento React na Prática no qual melhorei alguns conceitos sobre React.
