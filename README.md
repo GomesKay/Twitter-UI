@@ -9,4 +9,4 @@
 * TypeScript
 
 ## 💻 Projeto
-Projeto desenvolvido pela Rocketseat no evento React na Prática no qual melhorei alguns conceitos sobre React.
+Projeto desenvolvido pela Rocketseat no evento React na Prática no qual melhorei alguns conceitos sobre React. Consiste em uma tela do Twitter que pode adicionar um novo tweet.
